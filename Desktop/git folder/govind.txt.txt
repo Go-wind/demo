@@ -1,6 +1,0 @@
-hello world
-vv
-this is my git repo
-this is version 1
-this is version 2
-this is version3
